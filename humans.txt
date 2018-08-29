@@ -3,11 +3,12 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Victor Bao    victorngbao@gmail.com
 
 # THANKS
 
-    <name>
+    All my students
+    My Classmate
 
 # TECHNOLOGY COLOPHON
 
